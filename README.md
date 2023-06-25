@@ -4,5 +4,6 @@ lab os of NJUSE
 - lab1
 - lab2
 - lab3
-- lab4、
+- lab4
+
 其中lab1中第三部分汇编除法未能完成实验总任务；其他要求均可达到
