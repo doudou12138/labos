@@ -5,9 +5,10 @@ lab os of NJUSE
 - lab2
 - lab3
 - lab4
+各个lab的实验任务在每一个对应的文件夹中。
 
 其中lab1中第三部分汇编除法未能完成实验总任务；其他要求均可达到
 
 [![Security Status](https://www.murphysec.com/platform3/v31/badge/1672867215002648576.svg)](https://www.murphysec.com/console/report/1672867214696464384/1672867215002648576)
 
-**不再更新 --20230914
+**不再更新 --20230914**
